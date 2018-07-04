@@ -92,4 +92,8 @@ Click **Apply** and you should start to see the line chart updating in near real
 
 ## References
 
-[Building a Real-time IoT Dashboard with Power BI: A Step-by-Step Tutorial](https://powerbi.microsoft.com/en-us/blog/using-power-bi-real-time-dashboards-to-display-iot-sensor-data-a-step-by-step-tutorial/)
+- [Building a Real-time IoT Dashboard with Power BI: A Step-by-Step Tutorial](https://powerbi.microsoft.com/en-us/blog/using-power-bi-real-time-dashboards-to-display-iot-sensor-data-a-step-by-step-tutorial/)
+
+- [https://www.reddit.com/r/PowerBI/comments/8v99mj/monitoring_broadband_speeds_and_pushing_to/](https://www.reddit.com/r/PowerBI/comments/8v99mj/monitoring_broadband_speeds_and_pushing_to/)
+
+
